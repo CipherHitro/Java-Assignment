@@ -1,0 +1,11 @@
+show output in file  --- Done  
+date exception for wrong date formate --- Done
+display by priority (high-low) ---  Done
+add Unique id to each task  --- Done
+remove and update by id (now-name) ---Done
+add search feature   --- Done 
+
+to run java file go to command panel: 
+javac -cp ".;libs\gson-2.11.0.jar" Main.java            
+java -cp ".;libs\gson-2.11.0.jar" Main 
+
